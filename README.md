@@ -7,4 +7,4 @@ You can change the type (``UNIFORM`` or ``QUASI_UNIFORM``) and the degree of the
 The code has to be compiled in **Release** mode.
 
 ## Demo
-![demo](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6a2de517-c685-4d17-823f-36e9be7df27c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221020%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221020T181533Z&X-Amz-Expires=86400&X-Amz-Signature=1da8b3aa6fe745f9fde5616b43cdc1c338c01bb4d8008fcb50aafe83711b7e20&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![demo](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6a2de517-c685-4d17-823f-36e9be7df27c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221208T111653Z&X-Amz-Expires=86400&X-Amz-Signature=3ad513631969e4ac44ba4e66db0db317892f48f0b8d481189327dd7e48887be9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
